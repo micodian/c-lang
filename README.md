@@ -1,3 +1,3 @@
 # c-lang
 
-Practising with C language 
+Practising with C language.
