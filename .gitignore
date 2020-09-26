@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 *.log
 *.txt
 *.exe
 cFunctions/testFunction.exe
+=======
+firstTest
+functions
+nextTest
+>>>>>>> ef5774d... added .c files and git ignore
