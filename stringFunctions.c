@@ -26,6 +26,8 @@ scanf("%s",input);
 
 printf("The new sentence is %s \n", strcat(input,myString));
 
+printf("to compare C and A, we get %d\n",strcmp("C","A"));
+
 
     return 0;
 }
